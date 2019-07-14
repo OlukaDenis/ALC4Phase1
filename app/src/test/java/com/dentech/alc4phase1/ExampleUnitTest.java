@@ -1,4 +1,4 @@
-package com.mcdenny.alc4phase1;
+package com.dentech.alc4phase1;
 
 import org.junit.Test;
 

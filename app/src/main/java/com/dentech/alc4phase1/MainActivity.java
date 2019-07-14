@@ -1,4 +1,4 @@
-package com.mcdenny.alc4phase1;
+package com.dentech.alc4phase1;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
