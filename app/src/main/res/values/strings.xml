@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome_alc">Welcome to ALC 4.0</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="name">Denis Oluka</string>
+    <string name="track">Track:</string>
+    <string name="android">Android</string>
+    <string name="country">Country:</string>
+    <string name="uganda">Uganda</string>
+    <string name="my_email">Email:</string>
+    <string name="olukadeno">olukadeno@gmail.com</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="_0773047940">+256 773047940</string>
+    <string name="slack_name">\@Denis Oluka</string>
+    <string name="slack_username">Slack Username</string>
+    <string name="website_domain">andela.com</string>
+</resources>
